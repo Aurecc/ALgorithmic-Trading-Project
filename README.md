@@ -23,3 +23,6 @@ This project requires an API key from IEX Cloud (https://iexcloud.io/) in order 
 My main reference for this project comes from a video tutorial, which can be found at: [Algorithmic Trading Using Python - Full Course](https://www.youtube.com/watch?v=xfzGZB4HhEE&t=13637s). However, I have written a slightly different code as the video is 4 years old and some things have changed. I have also written other functions and lines differently in order to make it more my style.
 
 Feel free to explore the Jupyter Notebooks in this repository to understand and implement these algorithmic trading strategies using Python.
+
+## Disclaimer: 
+This GitHub Repository is intended for educational and skill showcasing purposes only. None of the projects included should be considered as investment recommendations. The content provided is for informational and educational purposes, and should not be construed as financial advice. Visitors are encouraged to seek professional financial advice before making any investment decisions.
